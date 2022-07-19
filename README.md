@@ -1,2 +1,2 @@
 # ChatBotCog
-Discord chate robot using Python.
+Discord chat robot using Python.
